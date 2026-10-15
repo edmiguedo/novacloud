@@ -1,0 +1,8 @@
+NovaCloud — Respaldo del sitio, 14 de octubre de 2026.
+
+Extraé el ZIP y abrí index.html. Conservá la carpeta assets junto al HTML.
+Para publicar en un hosting estático, cargá index.html y assets.
+La tipografía Montserrat se carga desde Google Fonts y requiere internet.
+Contacto: WhatsApp +50578693196 / info@novacloud.com.
+El formulario prepara el mensaje para correo o WhatsApp; el visitante confirma el envío.
+Versión de código: 2bc11f14acd332662f4d53845fd9f2d1bc70f9e2
